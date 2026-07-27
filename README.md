@@ -83,9 +83,33 @@ The Excel model includes:
 
 ## Project Preview
 
-Screenshots will be added here.
+### Dashboard
+
+![Dashboard](Images/dashboard.png)
 
 ---
+
+### DCF Valuation
+
+![DCF](Images/dcf.png)
+
+---
+
+### Sensitivity Analysis
+
+![Sensitivity](Images/sensitivity.png)
+
+---
+
+### Relative Valuation
+
+![Relative Valuation](Images/relative_valuation.png)
+
+---
+
+### Financial Valuation Report
+
+![Report Cover](Images/report_cover.png)
 
 ## Author
 
