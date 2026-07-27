@@ -83,33 +83,21 @@ The Excel model includes:
 
 ## Project Preview
 
-### Dashboard
+### Discounted Cash Flow (DCF)
 
-![Dashboard](Images/dashboard.png)
-
----
-
-### DCF Valuation
-
-![DCF](Images/dcf.png)
-
----
-
-### Sensitivity Analysis
-
-![Sensitivity](Images/sensitivity.png)
-
----
-
-### Relative Valuation
-
-![Relative Valuation](Images/relative_valuation.png)
+![DCF Snapshot](DCF%20Snapshot)
 
 ---
 
 ### Financial Valuation Report
 
-![Report Cover](Images/report_cover.png)
+![Report Snapshot](Report%20Snapshot)
+
+---
+
+### Report
+
+![Report Snapshot 2](Report%20Snapshot%202)
 
 ## Author
 
