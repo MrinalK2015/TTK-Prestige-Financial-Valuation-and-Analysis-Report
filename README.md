@@ -86,9 +86,9 @@ The project includes both a fully integrated Excel financial model and a detaile
 
 | File | Description |
 |------|-------------|
-| Financial Model.xlsx | Fully integrated Excel financial model |
-| Financial Valuation & Analysis Report.pdf | Detailed valuation report |
-| README.md | Project documentation |
+| [📊 TTK_Prestige_Model.xlsx](TTK_Prestige_Model%5B1%5D.xlsx) | Fully integrated Excel financial model |
+| [📄 TTK Prestige.pdf](TTK%20Prestige.pdf) | Detailed financial valuation & analysis report |
+| [📘 README.md](README.md) | Project documentation |
 
 ---
 
